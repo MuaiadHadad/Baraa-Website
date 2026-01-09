@@ -1,0 +1,13 @@
+{
+  "name": "baraa-website",
+  "version": "1.0.0",
+  "description": "Interior Design Website",
+  "scripts": {
+    "start": "npx http-server -p 8080 -o",
+    "dev": "npx live-server --port=8080 --open=index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
+
